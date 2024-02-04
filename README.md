@@ -1,5 +1,5 @@
 # web-scraper
-Two mini web-scraper projects.
+Web Scraper Project that I built while learning python.
 
 1. Trip Advisor
 - Web-scraper that pulls data from [TripAdvisor](https://www.tripadvisor.com.au/) to get the top attractions in Sydney and put the data into an excel file. Built using the playwriter library.
